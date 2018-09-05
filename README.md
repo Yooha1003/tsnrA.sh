@@ -25,14 +25,14 @@
 --------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------
-  This method was created by:\
+  This method was created by:
 
   Uksu, Choi (uschoi@nict.go.jp)\
   Center for Information and Neural Networks\
   National Institute of Information and Communications Technology
 
 --------------------------------------------------------------------------------------
-                      Script writing and modification by Uksu\
+                      Script writing and modification by Uksu
                       Do not modify without a permission.
                       
 --------------------------------------------------------------------------------------
